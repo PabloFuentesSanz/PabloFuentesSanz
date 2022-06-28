@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Fuentes</h1>
 <h3 align="center">Software Engineer and Web Application Developer</h3>
 
-- 🔭 I’m currently working on Alten **MacQ Mobility in Belgium**
+<p align="center">I’m currently working on Alten - MacQ Mobility in Belgium</p>
 
 
 
