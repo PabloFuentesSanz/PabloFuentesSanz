@@ -4,9 +4,11 @@
 <p align="center">I’m currently working on Alten - MacQ Mobility in Belgium</p>
 
 <h4 align="center">Personal Portfolio</h4>
-<a href="https://pablofuentes.vercel.app/" target="_blank">![Captura de pantalla 2022-07-15 021431](https://user-images.githubusercontent.com/51823158/179122585-c9cd0d1c-0fa4-44b5-ac46-c3e784e6ac6d.png)</a>
 
+<a href="https://pablofuentes.vercel.app/" target="_blank">
 
+![Captura de pantalla 2022-07-15 021431](https://user-images.githubusercontent.com/51823158/179122901-8ba79758-56e6-436b-8ef2-bb61613b53ae.png)
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
