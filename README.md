@@ -3,7 +3,7 @@
 
 <p align="center">I’m currently working on Alten - MacQ Mobility in Belgium</p>
 
-<h4 align="center">Personal Portfolio</h4>
+<h4 align="center">Link to Personal Portfolio</h4>
 
 <a href="https://pablofuentes.vercel.app/" target="_blank">
 
