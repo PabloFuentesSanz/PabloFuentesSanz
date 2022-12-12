@@ -6,7 +6,6 @@
 <h4 align="center">Link to Personal Portfolio</h4>
 
 <a href="https://pablofuentes.vercel.app/" target="_blank">
-
 ![Captura de pantalla 2022-07-15 021431](https://user-images.githubusercontent.com/51823158/179122901-8ba79758-56e6-436b-8ef2-bb61613b53ae.png)
 </a>
 <h3 align="left">Languages and Tools:</h3>
