@@ -5,8 +5,8 @@
 
 <h4 align="center">Link to Personal Portfolio</h4>
 
-<a href="[https://pablofuentes.vercel.app/](https://pablofuentes.vercel.app/)" target="_blank">
-![image](https://github.com/user-attachments/assets/daf08af7-e00c-431c-94aa-77045283c7e8)
+<a href="https://pablofuentes.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/be86c018-c026-4fad-95ab-a0b474543b74" alt="Image" />
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
