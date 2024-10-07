@@ -6,7 +6,7 @@
 <h4 align="center">⬇️Link to Personal Portfolio⬇️</h4>
 
 <a href="https://pablofuentes.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/be86c018-c026-4fad-95ab-a0b474543b74" alt="Image" />
+  <img src="https://github.com/user-attachments/assets/2df4627b-1ae5-4df2-9c61-efc01485a075" alt="Image" />
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
