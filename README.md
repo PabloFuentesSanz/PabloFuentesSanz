@@ -1,35 +1,60 @@
-<h1 align="center">Hello World 👋, I'm Pablo Fuentes</h1>
-<h3 align="center">Software Engineer and Web Application Developer</h3>
+<h1 align="center">Hey there 👋, I'm Pablo Fuentes</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
-<p align="center">I’m currently working on Alten - MacQ Mobility in Belgium</p>
+---
 
-<h4 align="center">⬇️Link to Personal Portfolio⬇️</h4>
+### 🚀 About Me
 
-<a href="https://pablofuentes.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/2df4627b-1ae5-4df2-9c61-efc01485a075" alt="Image" />
-</a>
-<h3 align="left">Languages and Tools:</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<br/>
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<br/>
-<br/>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pablo-fuentes-512258134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-fuentes-512258134/" height="30" width="40" /></a>
-</p>
+💡 Passionate about **building scalable and high-quality web applications**.  
+💼 Currently working at **Mercadona Tech** as a **Frontend Engineer**.  
+📚 Focused on **React, TypeScript, and modern web technologies**.  
+⚡ Always looking to improve **code quality, performance, and developer experience**.
 
+---
+
+### 🌐 Projects & Portfolio
+
+🔗 **Check out my portfolio** → [pablofuentes.vercel.app](https://pablofuentes.vercel.app/)  
+🔥 Creator of **[CodeWithPablo Boilerplate](https://www.npmjs.com/package/create-codewithpablo)** → A professional **React + TypeScript + Vite** starter kit.
+
+---
+
+### 🛠 Tech Stack
+
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
+#### **Databases & Cloud**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+#### **DevOps & Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pablo-fuentes-512258134/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/PabloFuentesSanz)
+
+---
+
+### ✨ Fun Fact
+
+💬 I love discussing **best practices in frontend architecture, performance optimization, and UI/UX design**.  
+🚀 When I'm not coding, you'll find me **exploring new tech, working on side projects, or planning my next travel adventure**.  
