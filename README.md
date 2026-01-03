@@ -15,7 +15,11 @@
 ### 🌐 Projects & Portfolio
 
 🔗 **Check out my portfolio** → [pablofuentes.vercel.app](https://pablofuentes.vercel.app/)  
-🔥 Creator of **[CodeWithPablo Boilerplate](https://www.npmjs.com/package/create-codewithpablo)** → A professional **React + TypeScript + Vite** starter kit.
+
+🇯🇵 **[Kanso-ui](https://kanso-ui.vercel.app/)** → Creator of a minimalist React component library inspired by Japanese philosophy. Focuses on simplicity and essentialism.  
+📦 **[NPM Package](https://www.npmjs.com/package/kanso-ui)** | 💻 **[Documentation](https://kanso-ui.vercel.app/)**
+
+🔥 **[CodeWithPablo Boilerplate](https://www.npmjs.com/package/create-codewithpablo)** → A professional **React + TypeScript + Vite** starter kit.
 
 ---
 
