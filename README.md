@@ -48,10 +48,3 @@ I write about my engineering practice on my [portfolio](https://pablofuentes.ver
 **Tooling** · Vite · Webpack · Storybook · Vitest · GitHub Actions · Jenkins
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PabloFuentesSanz&show_icons=true&hide_border=true&count_private=true&theme=graywhite" alt="Pablo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFuentesSanz&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" />
-</p>
