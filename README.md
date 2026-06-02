@@ -1,64 +1,57 @@
-<h1 align="center">Hey there 👋, I'm Pablo Fuentes</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h1 align="center">Pablo Fuentes</h1>
+<p align="center">Senior Frontend Engineer · Frontend Architecture · TDD</p>
+
+<p align="center">
+  <a href="https://pablofuentes.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pablo-fuentes-512258134">LinkedIn</a> ·
+  <a href="https://github.com/PabloFuentesSanz">GitHub</a>
+</p>
 
 ---
 
-### 🚀 About Me
+### About
 
-💡 Passionate about **building scalable and high-quality web applications**.  
-💼 Currently working at **Mercadona Tech** as a **Frontend Engineer**.  
-📚 Focused on **React, TypeScript, and modern web technologies**.  
-⚡ Always looking to improve **code quality, performance, and developer experience**.
+Senior Frontend Engineer with 6+ years of experience building scalable ecosystems, Microfrontends, and high-traffic platforms (14M+ monthly visits). I care about engineering discipline — 100% TDD, Extreme Programming, and Domain-Driven Design — and about the architecture decisions that let a product move fast without breaking.
 
----
-
-### 🌐 Projects & Portfolio
-
-🔗 **Check out my portfolio** → [pablofuentes.vercel.app](https://pablofuentes.vercel.app/)  
-
-🇯🇵 **[Kanso-ui](https://kanso-ui.vercel.app/)** → Creator of a minimalist React component library inspired by Japanese philosophy. Focuses on simplicity and essentialism.  
-📦 **[NPM Package](https://www.npmjs.com/package/kanso-ui)** | 💻 **[Documentation](https://kanso-ui.vercel.app/)**
-
-🔥 **[CodeWithPablo Boilerplate](https://www.npmjs.com/package/create-codewithpablo)** → A professional **React + TypeScript + Vite** starter kit.
+- 🏗️ Currently architecting frontend for core business verticals at **Mercadona Tech**
+- 🧪 Believer in testing as a design tool, not a coverage number
+- 🌏 Open to relocation — building my next chapter in **Japan**
+- 🇯🇵 Drawn to Japanese minimalism, which shapes how I think about software
 
 ---
 
-### 🛠 Tech Stack
+### Featured Projects
 
-#### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+**[Plattio](https://plattio.com/)** — A full end-to-end Restaurant Operating System, running in production with 50+ businesses across Spain. Founding engineer & architect.
 
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-
-#### **Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-
-#### **DevOps & Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+**[KansoUi](https://kanso-ui.vercel.app/)** — A minimalist component library inspired by Japanese *kanso* (簡素) — simplicity, nothing wasted. [npm](https://www.npmjs.com/package/kanso-ui) · [docs](https://kanso-ui.vercel.app/)
 
 ---
 
-### 📫 Connect with me
+### Writing
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pablo-fuentes-512258134/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/PabloFuentesSanz)
+I write about my engineering practice on my [portfolio](https://pablofuentes.vercel.app/):
+
+- **Why I Deleted All My useMemo Hooks — And Why the App Was Still Slow** → [read](https://pablofuentes.vercel.app/articles/why-i-deleted-my-usememos)
+- **The Myth of Frontend Testing: Why 100% Code Coverage Is Ruining Your Architecture** → [read](https://pablofuentes.vercel.app/articles/tests-that-survive-refactors)
 
 ---
 
-### ✨ Fun Fact
+### Tech Stack
 
-💬 I love discussing **best practices in frontend architecture, performance optimization, and UI/UX design**.  
-🚀 When I'm not coding, you'll find me **exploring new tech, working on side projects, or planning my next travel adventure**.  
+**Languages** · TypeScript · JavaScript (ES6+) · HTML5 · CSS
+
+**Frameworks** · React · Next.js · Vue · Redux · Zustand
+
+**Architecture & Practices** · Microfrontends · TDD · XP · DDD · Feature Flags · Canary Deployments · Web Vitals · a11y
+
+**Tooling** · Vite · Webpack · Storybook · Vitest · GitHub Actions · Jenkins
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PabloFuentesSanz&show_icons=true&hide_border=true&count_private=true&theme=graywhite" alt="Pablo's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFuentesSanz&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" />
+</p>
